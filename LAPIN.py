@@ -7,9 +7,9 @@ for eg. xoxo so if you consider from middle then it will be xo in the 1st half a
 so below is the code you can try in vs code or any python ide to pratice
 '''
 
-tESTCASES=int(input())
-while tESTCASES:
-       tESTCASES -=1
+TESTCASES=int(input())
+while TESTCASES:
+       TESTCASES -=1
        st =  input()
        ln= len(st)
        x=ln//2
