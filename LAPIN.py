@@ -2,7 +2,9 @@
 
 Author: Amit Kumar
 Python Version: 3.5 and above
-
+Lapindrome is basically a string in which first n length of string from middle is equal to last n length of string from middle
+for eg. xoxo so if you consider from middle then it will be xo in the 1st half and xoxo on another half 
+so below is the code you can try in vs code or any python ide to pratice
 '''
 
 tESTCASES=int(input())
